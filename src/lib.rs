@@ -1,6 +1,1 @@
-#[cfg(test)]
-mod test {
-    #[test]
-    fn it_works() {
-    }
-}
+pub mod chap_22_elementary_graph_algorithms;
